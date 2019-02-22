@@ -15,6 +15,7 @@ Make sure you are contributors to these repositories so tasks can be assigned to
 ## Boards
 This board contains non-specific tasks
 - **[Miscellaneous board](https://github.com/users/exhibitio/projects/1 "Miscellaneous board")**
+
 This board contains tasks for the service repository only.
 - **[Service board](https://github.com/exhibitio/service/projects/1 "Service board")**
 
