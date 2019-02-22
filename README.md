@@ -8,9 +8,9 @@ Make sure you have avvess to this drive folder. It contains important files, pre
 
 ## Repositories
 Make sure you are contributors to these repositories so tasks can be assigned to you.
-- **[https://github.com/exhibitio/miscellaneous](https://github.com/exhibitio/miscellaneous "https://github.com/exhibitio/miscellaneous")**
+- **[https://github.com/exhibitio/miscellaneous](https://github.com/exhibitio/miscellaneous/invitations "https://github.com/exhibitio/miscellaneous")**
 
-- **[https://github.com/exhibitio/service](https://github.com/exhibitio/service "https://github.com/exhibitio/service")**
+- **[https://github.com/exhibitio/service](https://github.com/exhibitio/service/invitations "https://github.com/exhibitio/service")**
 
 ## Boards
 This board contains non-specific tasks
